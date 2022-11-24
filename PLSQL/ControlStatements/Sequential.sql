@@ -1,0 +1,1 @@
+PL/SQL offers two other statements to handle out of the ordinary requirements for sequential processing: GOTO and NULL. The GOTO statement allows you to perform unconditional branching to another executable statement in the same execution section of a PL/SQL block. The NULL statement gives you a way to tell the compiler to do...absolutely nothing. 
